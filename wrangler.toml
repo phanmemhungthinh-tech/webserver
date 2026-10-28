@@ -1,3 +1,0 @@
-name = "webserver"
-main = "servers.json" # Hoặc đường dẫn đến file code chính của bạn như src/index.js
-compatibility_date = "2026-10-27"
